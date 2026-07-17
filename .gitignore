@@ -1,0 +1,20 @@
+# Operating system files
+.DS_Store
+**/.DS_Store
+._*
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Editor and temporary files
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+*.bak
